@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Sou Matheus</h1>
 <h3 align="center">Sobre o Matheus</h3>
-
+Novo na área de programação e aprendendo Java Script com o objetivo de conseguir meu primeiro emprego. Aqui você pode ver a minha jornada.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
